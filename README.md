@@ -1,2 +1,2 @@
 # math_cpp
-Implementing mathematics functionalities using CPP
+Implementing mathematical functionalities using CPP
